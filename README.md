@@ -19,3 +19,5 @@ One of the remarkable features of Task 4 is its practical applicability. It serv
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/69efd827-5efd-42b3-b22c-e7084ad167de)
+![Image](https://github.com/user-attachments/assets/e9426ec1-ed96-4f3b-9f20-8be75bcb549f)
